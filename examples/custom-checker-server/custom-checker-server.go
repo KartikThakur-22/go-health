@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/InVisionApp/go-health/v2"
-	"github.com/InVisionApp/go-health/v2/handlers"
+	"github.com/KartikThakur-22/go-health/v2"
+	"github.com/KartikThakur-22/go-health/v2/handlers"
 )
 
 type customCheck struct{}

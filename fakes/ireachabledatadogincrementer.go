@@ -4,7 +4,7 @@ package fakes
 import (
 	"sync"
 
-	"github.com/InVisionApp/go-health/v2/checkers"
+	"github.com/KartikThakur-22/go-health/v2/checkers"
 )
 
 type FakeReachableDatadogIncrementer struct {
